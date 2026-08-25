@@ -1,0 +1,21 @@
+<resources>
+    <!-- アプリ名を追加 -->
+    <string name="app_name">MyApplication</string>
+
+    <!-- タイトルおよびラベル -->
+    <string name="worker_title">作業者情報入力</string>
+    <string name="worker_name_label">作業者名</string>
+    <string name="worker_name_hint">氏名を入力してください</string>
+
+    <!-- チェックボックス -->
+    <string name="equipment_check">設備点検完了</string>
+    <string name="safety_check">安全点検完了</string>
+
+    <!-- シフト -->
+    <string name="day_shift">日勤</string>
+    <string name="night_shift">夜勤</string>
+
+    <!-- その他 -->
+    <string name="worker_detail_hint">作業内容の詳細を入力してください</string>
+    <string name="submit_button">送信</string>
+</resources>

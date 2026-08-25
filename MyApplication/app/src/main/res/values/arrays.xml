@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="process_array">
+        <item>工程を選択してください</item>
+        <item>組立工程</item>
+        <item>検査工程</item>
+        <item>梱包工程</item>
+        <item>出荷工程</item>
+    </string-array>
+</resources>
